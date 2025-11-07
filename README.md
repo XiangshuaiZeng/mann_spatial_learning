@@ -6,5 +6,6 @@ To generate the data, please navigate to the folder "experiments" and run the co
 
 For the auto- and hetero-associative memory tasks, external datasets are used and can be downloaded here: https://www.kaggle.com/datasets/crawford/emnist. Please download the dataset and put it under the main directory.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17550322.svg)](https://doi.org/10.5281/zenodo.17550322)
 
 
